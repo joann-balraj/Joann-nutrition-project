@@ -1,6 +1,10 @@
-09.27.21
-Morning: nothing
-Afternoon: nothing
-Evening: 1. 1 bowl of cereal
-2. 6 inch turkey sandwich
-3. bacon and okra
+`09.27.21`
+- Morning: nothing
+- Afternoon: nothing
+- Evening: 	* 1 bowl of cereal
+		* 6 inch turkey sandwich
+		* 1 bowl of bacon and okra
+`09.28.21`
+- Morning: nothing
+- Afternoon: 	* 1 bowl of kimchi fried rice 
+		* 3 slices of spam

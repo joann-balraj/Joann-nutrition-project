@@ -70,11 +70,11 @@
 '10.07.21'
 - Morning:	* nothing
 - Afternoon:	* sandwich
-		   - ciabatta bread, tomato, serene pepper, onion, ham, cheese
+		   - ciabatta bread, tomato, serranno pepper, onion, ham, cheese
 
 '10.08.21'
 - Morning:	* ham and cheese croissant
 		* chai latte
 - Afternoon:	* sandwich
-		   - ciabatta bread, tomato, serene pepper, onion, ham, cheese
+		   - ciabatta bread, tomato, serranno pepper, onion, ham, cheese
 - Evening:	* nothing

@@ -149,3 +149,8 @@
 - Morning: 	* nothing
 - Afternoon:	* ham & cheese croissant with jalapeños - la panaderia
 		* chai latte - la panaderia 
+- Evening: 	* chicken torta - la panadería
+		* cesar salad - la panadería 
+
+`10.21.21`
+- Morning: 	* venti white mocha cold brew - Starbucks 
